@@ -14,4 +14,8 @@ CodSoft Data Science Internship Repository.
     * Build a model that predicts the rating of a movie based on features like genre, director, and actors.
     * Goal: Analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
     * Dataset: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
-    
+
+### Task 3:
+    * Credit Card Fraud Detection
+    * Build a machine learning model to identify fraudulent credit card transactions.
+    * Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
